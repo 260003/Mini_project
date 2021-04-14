@@ -1,7 +1,7 @@
 PROJ_NAME = bank_managment
 TEST_PROJ_NAME = Test_$(PROJ_NAME)
 
-SRC =src/deposit.c \ 
+SRC =src/display.c \ 
 src/feature.c 
 
 COV_SRC = test.c
