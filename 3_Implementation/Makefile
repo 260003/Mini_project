@@ -16,5 +16,10 @@ $(PROJECT_NAME): $(SRC)
 run: $(PROJECT_NAME)
 	$(PROJECT_NAME)
 	
+EXEC = exe
+	
+valgrind:
+	valgrind ./$(TEST_PROJ_NAME).$(EXEC)
+	
 clean:
 	del /q *.exe
