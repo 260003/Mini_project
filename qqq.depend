@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1618326488 source:c:\users\pradeep\downloads\rahul\c programs\qqq\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	"fun.h"
+
+1618325046 source:c:\users\pradeep\downloads\rahul\c programs\qqq\deposit.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	"fun.h"
+
+1618325015 c:\users\pradeep\downloads\rahul\c programs\qqq\fun.h
+
+1618327130 source:c:\users\pradeep\downloads\rahul\c programs\qqq\main11.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	"fun.h"
+
