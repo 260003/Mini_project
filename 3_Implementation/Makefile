@@ -15,7 +15,7 @@ $(PROJECT_NAME): $(SRC)
 	
 run: $(PROJECT_NAME)
 	$(PROJECT_NAME)
-	
+VPATH = SRC INCLUDE 	
 EXEC = exe
 	
 valgrind:
