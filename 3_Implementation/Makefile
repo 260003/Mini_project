@@ -4,8 +4,10 @@
 #<TAB>Command
 
 PROJECT_NAME = all
-SRC =main.c src\display.c\
-src\feature.c
+SRC =main.c\
+src\feature.c\
+src\display.c
+
 
 INC = inc
 
