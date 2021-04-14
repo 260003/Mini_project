@@ -3,7 +3,7 @@
 #Target : dependency
 #<TAB>Command
 
-PROJECT_NAME = all.exe
+PROJECT_NAME = all
 SRC = main.c\
 src\display.c\
 src\feature.c
