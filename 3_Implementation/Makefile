@@ -5,7 +5,7 @@
 
 PROJECT_NAME = all
 SRC =main.c\
-display.c\
+src\display.c\
 src\feature.c
 
 INC = inc
