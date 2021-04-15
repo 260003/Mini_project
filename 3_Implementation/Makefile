@@ -32,7 +32,7 @@ else
 endif
 	
 valgrind:
-	valgrind ./all.$(EXEC)
+	valgrind ./$(TEST_all).$(EXEC)
 	
 coverage:
 	cp test/test.c .
