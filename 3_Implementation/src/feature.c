@@ -1,3 +1,15 @@
+
+/**
+ * @file feature.c
+ * @author Rahul 
+ * @brief actual implementation of all features for bank manegment System
+ * @version 0.1
+ * @date 2021-04-14
+ *
+ * @copyright Copyright (c) 2021
+ *
+ */
+
 #include <stdio.h>
 //#include <conio.h>
 #include <string.h>
