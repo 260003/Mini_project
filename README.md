@@ -2,13 +2,13 @@
 
 
 
-|[![cppcheck-action](https://github.com/260003/Mini_project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/260003/Mini_project/actions/workflows/cppcheck.yml) | [![Contribution check](https://github.com/260003/Mini_project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/260003/Mini_project/actions/workflows/gitinspector.yml) | [![Unit Testing](https://github.com/260003/Mini_project/actions/workflows/unitTesting.yml/badge.svg)](https://github.com/260003/Mini_project/actions/workflows/unitTesting.yml)
+| | [![Contribution check](https://github.com/260003/Mini_project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/260003/Mini_project/actions/workflows/gitinspector.yml) | [![Unit Testing](https://github.com/260003/Mini_project/actions/workflows/unitTesting.yml/badge.svg)](https://github.com/260003/Mini_project/actions/workflows/unitTesting.yml)
 
  |
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[![C/C++ CI](https://github.com/nnamratha/new_proj/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/nnamratha/new_proj/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/nnamratha/new_proj/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/nnamratha/new_proj/actions/workflows/cppcheck.yml)| [![Unity - Unit Testing](https://github.com/nnamratha/new_proj/actions/workflows/unity.yml/badge.svg)](https://github.com/nnamratha/new_proj/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/nnamratha/new_proj/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/nnamratha/new_proj/actions/workflows/gitinspector.yml)
+ | [![cppcheck-action](https://github.com/260003/Mini_project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/260003/Mini_project/actions/workflows/cppcheck.yml)| [![Unit Testing](https://github.com/260003/Mini_project/actions/workflows/unitTesting.yml/badge.svg)](https://github.com/260003/Mini_project/actions/workflows/unitTesting.yml)| [![Contribution check](https://github.com/260003/Mini_project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/260003/Mini_project/actions/workflows/gitinspector.yml)
 
 
 
