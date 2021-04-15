@@ -45,7 +45,6 @@
 ## How to Run 
 
 * Enter Password - mini_project
-* create new account 
 ![image](https://user-images.githubusercontent.com/80737226/114859604-9ca63f80-9e08-11eb-8e43-6f386f20907d.png)
 
 
