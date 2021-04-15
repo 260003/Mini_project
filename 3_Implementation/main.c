@@ -2,7 +2,7 @@
 //#include <conio.h>
 #include <string.h>
 #include <stdlib.h>
-#include "inc/fun.h"
+#include "fun.h"
 void menu(void)
 {
     char option;
