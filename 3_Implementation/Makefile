@@ -17,8 +17,18 @@ $(PROJECT_NAME): $(SRC)
 	
 run: $(PROJECT_NAME)
 	$(PROJECT_NAME)
-VPATH = SRC INCLUDE 	
-EXEC = exe
+	
+ifdef OS
+   RM = rm 
+   FixPath = $(subst /,\,$1)
+   EXEC = exe
+else
+   ifeq ($(shell uname), Linux)
+      RM = rm -rf
+      FixPath = $1
+	  EXEC = out
+   endif
+endif
 	
 valgrind:
 	valgrind ./$(TEST_PROJ_NAME).$(EXEC)
