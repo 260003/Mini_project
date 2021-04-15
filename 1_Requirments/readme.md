@@ -15,10 +15,10 @@
  
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
-| LR01 | (1). New record shall be added by providing all the asked information                                                                                                    (2). Id should be unique and validated from persistant file or else patient record should not be accepted. | HR01 |  IMPLEMENTED  |
-| LR02 | Reading patient data should be possible  | HR02 |  IMPLEMENTED |
+| LR01 | New record shall be added by providing all the asked information                                                                                                    (2). Id should be unique  | HR01 |  IMPLEMENTED  |
+| LR02 | Reading Account holder data should be possible  | HR02 |  IMPLEMENTED |
 | LR03 | While reading all the records, only 10 records per page should be visible and should add 10 more if user wants to see more | HR02 | FUTURE |
-| LR04 | If user searches for an invalid ID "No Record Found" message should be displayed | HR02 |  IMPLEMENTED  |
+| LR04 | If user searches for an invalid Account number "No Record Found" message should be displayed | HR02 |  IMPLEMENTED  |
 | LR05 | User need to search by Account no. for the account holder record, if no such record is available then "No Record Found" Message should be displayed | HR03 |  IMPLEMENTED  
 | LR06 | When user Log off the system system able to save all data and able to login next user | HR08 |  IMPLEMENTED  |
 
