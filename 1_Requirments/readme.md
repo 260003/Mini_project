@@ -24,3 +24,22 @@
 
 
 ![image](https://user-images.githubusercontent.com/80737226/114848484-5c40c480-9dfc-11eb-9f89-0f3edd5f0256.png)
+
+
+# 4W&#39;s and 1&#39;H
+
+## Who:
+* Small and medium size Banks
+
+## What:
+* Many Banks are not able to afford high end HMS or ERP systems and hence still depend on manual filing systems. 
+
+## When:
+* This problem began in recent years, where many new banks start but they dont have a proper softwaer.
+
+## Where:
+* This problem is expected in all over india
+
+## How:
+* .
+
