@@ -1,3 +1,15 @@
+/**
+ * @file display.c
+ * @author Rahul 
+ * @brief this file display all feature
+ * @version 0.1
+ * @date 2021-04-14
+ *
+ * @copyright Copyright (c) 2021
+ *
+ */
+
+
 #include <stdio.h>
 //#include <conio.h>
 #include <string.h>
