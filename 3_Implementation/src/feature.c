@@ -19,10 +19,10 @@
 void display_options()
 {
     printf("\n1. Create new account \n");
-    printf("2. Cash Deposit \n");
-    printf("3. Cash withdrawl \n");
-    printf("4. Account information \n");
-    printf("5. Log out \n");
-    printf("6. Clear the screen and display available ");
+    printf("2. amount Deposit \n");
+    printf("3. amount withdrawl \n");
+    printf("4. Account Details \n");
+    printf("5. Log off \n");
+    printf("6. Clear screen  ");
     printf("options \n\n");
 }
