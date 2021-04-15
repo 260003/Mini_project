@@ -5,6 +5,7 @@
 
 PROJECT_NAME = all
 TEST_PROJ_NAME = Test_$(PROJ_NAME)
+
 SRC =main.c\
 src/feature.c\
 src/display.c
@@ -31,7 +32,7 @@ else
 endif
 	
 valgrind:
-	valgrind ./$(TEST_PROJ_NAME).$(EXEC)
+	valgrind ./all.$(EXEC)
 	
 coverage:
 	cp test/test.c .
