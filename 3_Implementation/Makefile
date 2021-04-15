@@ -6,8 +6,8 @@
 PROJECT_NAME = all
 TEST_PROJ_NAME = Test_$(PROJ_NAME)
 SRC =main.c\
-src\feature.c\
-src\display.c
+src/feature.c\
+src/display.c
 
 
 INC = inc
