@@ -22,11 +22,11 @@
 Bank management systems Application offer following benefits
     
     * Create Account.
-    * we Can Deposit cash and keep a recored of it.
-    * we Can withdrwal cash.
-    * we can check blanece. 
+    * We Can Deposit cash and keep a recored of it.
+    * We Can withdrwal cash.
+    * We can check blanece. 
     * Details of account holder.
-    * multiple User can Login.
+    * Multiple User can Login.
 
 
 
