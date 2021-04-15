@@ -4,7 +4,8 @@
 #<TAB>Command
 
 PROJECT_NAME = all
-TEST_PROJ_NAME = Test_$(PROJ_NAME)
+
+
 
 SRC =main.c\
 src/feature.c\
@@ -30,9 +31,12 @@ else
 	  EXEC = out
    endif
 endif
-	
+
+
+TEST_PROJ_NAME = Test_$(PROJECT_NAME)
+
 valgrind:
-	valgrind ./$(TEST_all).$(EXEC)
+	valgrind ./$(TEST_PROJ_NAME).$(EXEC)
 	
 coverage:
 	cp test/test.c .
