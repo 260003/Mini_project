@@ -91,14 +91,14 @@ Practice management software offers charting modules to keep patient data, chart
 ## High Level Requirements: 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
-| HR01 | User shall be able to add new patient record | Techincal | IMPLEMENTED | 
-| HR02 | User shall be able to read a patient record | Techincal |  IMPLEMENTED  |
-| HR03 | User shall be able to update a patient record | Techincal |  IMPLEMENTED  |
-| HR04 | User shall be able to delete a patient record | Techincal |  IMPLEMENTED  |
-| HR05 | User shall be able to save records in a file | Techincal |  IMPLEMENTED  |
-| HR06 | User shall be able to read data from a file | Techincal |  IMPLEMENTED  |
+| HR01 | User shall be able to add new Account| Techincal | IMPLEMENTED | 
+| HR02 | User shall be able to Deposit money  | Techincal |  IMPLEMENTED  |
+| HR03 | User shall be able to Withdroal money | Techincal |  IMPLEMENTED  |
+| HR04 | User shall be able to Check Balence | Techincal |  IMPLEMENTED  |
+| HR05 | User shall be able to log Out | Techincal |  IMPLEMENTED  |
+| HR06 | User shall be able to see Account Details | Techincal |  IMPLEMENTED  |
 | HR07 | Data should not be lost in case of faliure | Scenario | FUTURE |
-| HR08 | Data should always be stored when closing the system | Scenario |  IMPLEMENTED |
+| HR08 | User shall be able to Update Account holder Detail | Scenario |  FUTURE |
 ##  Low level Requirements:
  
 | ID | Description | HLR ID | Status (Implemented/Future) |
