@@ -6,8 +6,8 @@
 
  |
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
+ | Code Quality | Unity | [Git Inspector](using github.io option)
+ ----------|-------|--------------
  | [![cppcheck-action](https://github.com/260003/Mini_project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/260003/Mini_project/actions/workflows/cppcheck.yml)| [![Unit Testing](https://github.com/260003/Mini_project/actions/workflows/unitTesting.yml/badge.svg)](https://github.com/260003/Mini_project/actions/workflows/unitTesting.yml)| [![Contribution check](https://github.com/260003/Mini_project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/260003/Mini_project/actions/workflows/gitinspector.yml)
 
 
