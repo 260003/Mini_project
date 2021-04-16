@@ -44,7 +44,13 @@
 * .
 ## How to Run 
 
-* Enter Password - mini_project
+```sh
+# For Building the main application
+make
+# For Running the main application
+make run
+# For Building the test file
+make test
 
 
 
