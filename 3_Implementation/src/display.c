@@ -14,7 +14,7 @@
 //#include <conio.h>
 #include <string.h>
 #include <stdlib.h>
-#include "../inc/fun.h"
+#include "fun.h"
 
 // Structure declaration
 struct acc_type
