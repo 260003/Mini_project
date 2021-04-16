@@ -39,20 +39,23 @@ void Create_new_account()
    char bank_name[20];
    char bank_branch[20];
    char acc_holder_name[30];
-   int acc_number;
+   int acc_number,z;
    char acc_holder_address[100];
    float available_balance = 0;
    fflush(stdin);
-   printf("\nEnter the bank name              : ");
+   printf("\nEnter name of the bank              : ");
    scanf("%s", &bank_name);
-   printf("\nEnter the bank branch            : ");
+   printf("\nEnter location of branch            : ");
    scanf("%s", &bank_branch);
    printf("\nEnter the account holder name    : ");
    scanf("%s", &acc_holder_name);
    printf("\nEnter the account number(1 to 10): ");
    scanf("%d", &acc_number);
+     printf("\nEnter the account holder PAN card number : ");
+   scanf("%s", &z);
    printf("\nEnter the account holder address : ");
    scanf("%s", &acc_holder_address);
+     
 
    strcpy(account[acc_number-1].bank_name,bank_name);
    strcpy(account[acc_number-1].bank_branch,bank_branch);
@@ -77,7 +80,7 @@ void Create_new_account()
    printf("Available balance      : %f \n" ,
    account[acc_number-1].available_balance);
 
-   //num_acc++;
+   
 
 }
 
