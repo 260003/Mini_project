@@ -26,7 +26,7 @@ void menu(void)
        printf("Please enter any options (1/2/3/4/5/6) ");
        printf("to continue : ");
 
-        option = getch();
+        option = getc();
         printf("%c \n", option);
         switch(option)
         {
