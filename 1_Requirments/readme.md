@@ -49,6 +49,7 @@
 make
 # For Running the main application
 make run
+# Enter password - mini_project
 # For Building the test file
 make test
 
